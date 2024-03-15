@@ -4,9 +4,9 @@ class Program
 {
     static void Main()
     {
-        var student1 = StudentMethods.CreateStudent(1, StudentType.FullTime, "Milan", "Parihar");
-        var student2 = StudentMethods.CreateStudent(2, StudentType.FullTime, "Mukul", "Thakur");
-        var student3 = StudentMethods.CreateStudent(3, StudentType.PartTime, "Mohit", "Parihar");
+        var student1 = StudentMethods.CreateStudent(1, StudentType.FullTime, "Gurvinder", "Singh");
+        var student2 = StudentMethods.CreateStudent(2, StudentType.FullTime, "Navjot", "Kaur");
+        var student3 = StudentMethods.CreateStudent(3, StudentType.PartTime, "Mohit", "Sharma");
 
         Console.WriteLine("Assignment One");
 
